@@ -1,7 +1,7 @@
 # How do I install and set up my Typescript project and unit testing codes 🧑‍💻
 
 🖥️ **Step 1: Initialize a TypeScript Project** 🖥️
-- Create a new directory for your project: By creating my new folder and name it, then cd to my directory in my VScode
+- Create a new directory for my project: By creating my new folder and name it, then cd to my directory in my VScode
 - Initialized my Typescript project by implementing **"npm init -y"** command
 
 🧗 **Step 2: Install TypeScript and Jest** 🧗
